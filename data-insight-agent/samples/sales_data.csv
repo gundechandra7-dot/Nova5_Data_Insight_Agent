@@ -1,0 +1,501 @@
+Order_Date,Region,Category,Sales_Channel,Units_Sold,Unit_Price,Discount_Rate,Total_Revenue,Total_Profit
+2023-01-01,Latin America,Office Supplies,Distributor,2,19.99,0.05,37.98,21.61
+2023-01-02,North America,Books,Distributor,35,299.99,0.1,9449.68,2921.12
+2023-01-03,Middle East,Apparel,Distributor,42,49.99,0.0,2099.58,1192.76
+2023-01-04,Asia-Pacific,Books,Distributor,34,19.99,0.25,45000.0,173.66
+2023-01-05,Asia-Pacific,Books,Distributor,30,120.0,0.15,3060.0,1615.88
+2023-01-06,North America,Home & Kitchen,Online,13,19.99,0.25,194.9,37.81
+2023-01-07,Latin America,Apparel,Distributor,13,19.99,0.05,246.88,129.9
+2023-01-08,Latin America,Apparel,Online,18,299.99,0.25,4049.86,828.41
+2023-01-09,Middle East,Apparel,Distributor,32,49.99,0.05,1519.7,403.89
+2023-01-10,North America,Books,Direct Sales,32,120.0,0.25,2880.0,1260.28
+2023-01-11,Asia-Pacific,Office Supplies,Retail Store,35,850.0,0.0,29750.0,17162.08
+2023-01-12,Latin America,Apparel,Online,39,850.0,0.0,33150.0,16504.92
+2023-01-13,North America,Books,Distributor,46,19.99,0.0,919.54,312.72
+2023-01-14,Latin America,Home & Kitchen,Direct Sales,29,299.99,0.0,8699.71,4657.31
+2023-01-15,Latin America,Office Supplies,Retail Store,49,299.99,0.0,14699.51,7230.49
+2023-01-16,Asia-Pacific,Home & Kitchen,Online,29,850.0,0.0,24650.0,14283.4
+2023-01-17,Europe,Office Supplies,Retail Store,44,120.0,0.05,5016.0,1695.16
+2023-01-18,Middle East,Books,Direct Sales,16,49.99,0.15,679.86,261.95
+2023-01-19,Middle East,Electronics,Online,44,120.0,0.25,3960.0,645.35
+2023-01-20,Asia-Pacific,Office Supplies,Retail Store,47,49.99,0.0,2349.53,772.8
+2023-01-21,Latin America,Home & Kitchen,Distributor,10,850.0,0.05,8075.0,4081.45
+2023-01-22,North America,Books,Online,30,49.99,0.05,1424.72,461.58
+2023-01-23,Latin America,Office Supplies,Retail Store,25,299.99,0.05,7124.76,3991.9
+2023-01-24,Asia-Pacific,Electronics,Direct Sales,39,19.99,0.15,662.67,140.6
+2023-01-25,Middle East,Electronics,Direct Sales,20,19.99,0.25,299.85,61.88
+2023-01-26,Latin America,Apparel,Online,5,850.0,0.15,3612.5,797.86
+2023-01-27,Middle East,Apparel,Retail Store,1,299.99,0.1,269.99,149.98
+2023-01-28,North America,Home & Kitchen,Online,30,120.0,0.05,3420.0,1797.39
+2023-01-29,Middle East,Office Supplies,Online,49,299.99,0.1,13229.56,5630.97
+2023-01-30,Middle East,Office Supplies,Retail Store,3,19.99,0.0,59.97,29.15
+2023-01-31,Europe,Apparel,Retail Store,45,19.99,0.0,899.55,478.54
+2023-02-01,Europe,Office Supplies,Distributor,14,299.99,0.15,3569.88,1409.12
+2023-02-02,Europe,Office Supplies,Retail Store,30,299.99,0.25,6749.78,2802.02
+2023-02-03,Middle East,Electronics,Direct Sales,4,19.99,0.1,71.96,30.07
+2023-02-04,Asia-Pacific,Apparel,Online,18,120.0,0.25,1620.0,236.07
+2023-02-05,Middle East,Books,Online,37,850.0,0.15,26732.5,9632.47
+2023-02-06,Asia-Pacific,Apparel,Direct Sales,25,850.0,0.0,21250.0,12635.25
+2023-02-07,Asia-Pacific,Books,Retail Store,48,299.99,0.25,10799.64,3219.25
+2023-02-08,Europe,Electronics,Direct Sales,1,850.0,0.25,637.5,290.57
+2023-02-09,Latin America,Home & Kitchen,Direct Sales,46,19.99,0.0,919.54,285.17
+2023-02-10,North America,Office Supplies,Distributor,15,19.99,0.1,269.86,138.45
+2023-02-11,Europe,Electronics,Direct Sales,9,299.99,0.0,2699.91,1046.74
+2023-02-12,Europe,Office Supplies,Online,15,299.99,0.25,3374.89,261.75
+2023-02-13,Latin America,Home & Kitchen,Direct Sales,49,299.99,0.1,13229.56,3707.05
+2023-02-14,North America,Home & Kitchen,Online,24,120.0,0.1,2592.0,835.79
+2023-02-15,Middle East,Electronics,Online,4,850.0,0.0,3400.0,1183.75
+2023-02-16,Middle East,Home & Kitchen,Online,12,299.99,0.25,2699.91,199.65
+2023-02-17,Europe,Books,Retail Store,37,49.99,0.15,1572.19,487.56
+2023-02-18,North America,Home & Kitchen,Distributor,37,49.99,0.25,1387.22,337.08
+2023-02-19,Europe,Office Supplies,Online,43,19.99,0.05,816.59,310.76
+2023-02-20,Asia-Pacific,Office Supplies,Online,6,850.0,0.15,4335.0,1480.01
+2023-02-21,Europe,Office Supplies,Retail Store,39,299.99,0.1,10529.65,3620.72
+2023-02-22,Europe,Office Supplies,Online,46,49.99,0.15,1954.61,724.46
+2023-02-23,Middle East,Books,Direct Sales,24,850.0,0.1,18360.0,8863.13
+2023-02-24,Middle East,Apparel,Direct Sales,11,19.99,0.1,197.9,102.01
+2023-02-25,Middle East,Electronics,Distributor,13,120.0,0.15,1326.0,670.02
+2023-02-26,Asia-Pacific,Office Supplies,Online,34,850.0,0.1,26010.0,12167.05
+2023-02-27,Middle East,Home & Kitchen,Retail Store,25,850.0,0.1,19125.0,10330.96
+2023-02-28,North America,Office Supplies,Direct Sales,7,120.0,0.05,798.0,319.07
+2023-03-01,Latin America,Home & Kitchen,Retail Store,4,850.0,,2550.0,900.49
+2023-03-02,North America,Home & Kitchen,Retail Store,8,19.99,0.25,119.94,16.41
+2023-03-03,North America,Office Supplies,Direct Sales,20,19.99,0.05,379.81,210.99
+2023-03-04,Middle East,Books,Retail Store,29,120.0,0.15,2958.0,1329.69
+2023-03-05,Latin America,Home & Kitchen,Direct Sales,45,299.99,0.0,13499.55,5142.33
+2023-03-06,Latin America,Home & Kitchen,Retail Store,46,49.99,0.0,2299.54,966.63
+2023-03-07,Latin America,Office Supplies,Direct Sales,10,299.99,0.0,2999.9,1741.9
+2023-03-08,Asia-Pacific,Home & Kitchen,Online,43,850.0,0.05,34722.5,10483.57
+2023-03-09,Middle East,Home & Kitchen,Distributor,34,49.99,0.05,1614.68,487.5
+2023-03-10,Latin America,Office Supplies,Direct Sales,26,120.0,0.1,2808.0,1250.74
+2023-03-11,Asia-Pacific,Office Supplies,Direct Sales,41,120.0,0.0,4920.0,2449.56
+2023-03-12,Europe,Electronics,Distributor,49,49.99,0.15,2082.08,375.49
+2023-03-13,Europe,Books,Direct Sales,3,19.99,0.15,50.97,15.72
+2023-03-14,Asia-Pacific,Books,Direct Sales,6,49.99,0.0,299.94,132.16
+2023-03-15,Asia-Pacific,Home & Kitchen,Retail Store,5,850.0,0.0,4250.0,1481.36
+2023-03-16,Middle East,Books,Distributor,5,19.99,0.0,99.95,51.42
+2023-03-17,Middle East,Home & Kitchen,Online,47,120.0,0.05,5358.0,2375.82
+2023-03-18,Europe,Electronics,Direct Sales,23,49.99,0.05,1092.28,540.01
+2023-03-19,Latin America,Office Supplies,Distributor,49,299.99,0.05,13964.53,4604.64
+2023-03-20,Europe,Office Supplies,Retail Store,9,299.99,0.25,2024.93,480.57
+2023-03-21,Latin America,Office Supplies,Online,35,850.0,,25287.5,7507.49
+2023-03-22,Latin America,Books,Distributor,20,299.99,0.15,5099.83,2245.77
+2023-03-23,Middle East,Electronics,Online,49,49.99,0.1,2204.56,1062.92
+2023-03-24,North America,Books,Online,42,49.99,0.05,1994.6,847.15
+2023-03-25,North America,Books,Online,35,299.99,0.25,7874.74,1351.63
+2023-03-26,Asia-Pacific,Electronics,Direct Sales,18,49.99,0.25,674.86,173.15
+2023-03-27,Middle East,Electronics,Direct Sales,17,850.0,0.15,12282.5,6360.98
+2023-03-28,Latin America,Electronics,Retail Store,24,19.99,0.05,455.77,138.86
+2023-03-29,North America,Electronics,Retail Store,3,850.0,0.1,2295.0,1225.51
+2023-03-30,Latin America,Office Supplies,Distributor,32,850.0,0.05,25840.0,7160.47
+2023-03-31,North America,Apparel,Retail Store,35,49.99,0.0,1749.65,1036.59
+2023-04-01,North America,Apparel,Online,38,19.99,0.05,721.64,259.54
+2023-04-02,North America,Electronics,Online,13,49.99,0.0,649.87,373.89
+2023-04-03,Middle East,Apparel,Direct Sales,47,120.0,0.0,5640.0,1843.14
+2023-04-04,Europe,Apparel,Online,25,49.99,0.1,1124.78,450.75
+2023-04-05,Latin America,Electronics,Distributor,9,49.99,0.15,382.42,183.89
+2023-04-06,Middle East,Apparel,Online,4,49.99,0.05,189.96,89.53
+2023-04-07,Middle East,Books,Online,14,19.99,0.0,279.86,154.08
+2023-04-08,Middle East,Home & Kitchen,Distributor,37,49.99,0.05,1757.15,922.64
+2023-04-09,Middle East,Home & Kitchen,Retail Store,34,19.99,0.15,577.71,112.53
+2023-04-10,Middle East,Electronics,Retail Store,11,299.99,0.15,2804.91,1044.18
+2023-04-11,Asia-Pacific,Office Supplies,Distributor,41,120.0,0.25,3690.0,557.73
+2023-04-12,Latin America,Electronics,Direct Sales,3,19.99,0.15,50.97,15.47
+2023-04-13,Middle East,Office Supplies,Online,28,299.99,0.1,7559.75,2495.32
+2023-04-14,Latin America,Home & Kitchen,Distributor,29,19.99,0.0,579.71,324.92
+2023-04-15,Asia-Pacific,Electronics,Online,9,19.99,0.25,134.93,50.33
+2023-04-16,Asia-Pacific,Books,Direct Sales,3,120.0,0.1,324.0,95.03
+2023-04-17,Latin America,Apparel,Online,25,850.0,0.05,20187.5,5498.87
+2023-04-18,North America,Office Supplies,Distributor,34,850.0,0.0,28900.0,15062.6
+2023-04-19,Europe,Apparel,Online,12,19.99,0.15,203.9,88.4
+2023-04-20,North America,Apparel,Retail Store,42,49.99,0.0,2099.58,961.88
+2023-04-21,North America,Electronics,Direct Sales,9,299.99,0.05,2564.91,688.06
+2023-04-22,North America,Apparel,Direct Sales,15,49.99,0.25,562.39,201.95
+2023-04-23,Middle East,Books,Direct Sales,40,49.99,0.25,1499.7,455.73
+2023-04-24,Asia-Pacific,Apparel,Distributor,25,19.99,0.25,374.81,41.25
+2023-04-25,North America,Electronics,Direct Sales,5,19.99,0.15,84.96,44.89
+2023-04-26,Asia-Pacific,Books,Retail Store,11,19.99,0.1,197.9,107.32
+2023-04-27,Latin America,Home & Kitchen,Distributor,34,19.99,0.1,611.69,216.66
+2023-04-28,Europe,Apparel,Retail Store,24,850.0,0.0,20400.0,6686.83
+2023-04-29,Latin America,Electronics,Online,15,19.99,0.15,254.87,113.44
+2023-04-30,Latin America,Home & Kitchen,Online,38,850.0,0.25,24225.0,6754.17
+2023-05-01,Middle East,Home & Kitchen,Online,8,850.0,0.25,5100.0,1461.05
+2023-05-02,Europe,Office Supplies,Online,5,19.99,0.05,94.95,40.79
+2023-05-03,Latin America,Books,Retail Store,48,120.0,0.05,5472.0,2092.29
+2023-05-04,Latin America,Apparel,Distributor,26,299.99,0.25,5849.8,1630.74
+2023-05-05,Europe,Electronics,Distributor,18,49.99,0.25,674.86,194.14
+2023-05-06,Europe,Office Supplies,Direct Sales,6,850.0,0.15,4335.0,1569.34
+2023-05-07,Latin America,Books,Retail Store,37,299.99,0.1,9989.67,3582.3
+2023-05-08,Europe,Office Supplies,Online,48,120.0,0.05,5472.0,2240.05
+2023-05-09,Latin America,Books,Retail Store,13,49.99,0.1,584.88,158.41
+2023-05-10,Latin America,Books,Direct Sales,28,49.99,0.15,1189.76,609.09
+2023-05-11,Middle East,Apparel,Direct Sales,5,850.0,,3187.5,425.02
+2023-05-12,North America,Books,Retail Store,13,19.99,0.1,233.88,64.14
+2023-05-13,Latin America,Office Supplies,Retail Store,17,120.0,0.25,1530.0,539.64
+2023-05-14,Asia-Pacific,Books,Retail Store,40,850.0,0.25,25500.0,7178.91
+2023-05-15,North America,Apparel,Distributor,45,120.0,0.0,5400.0,2529.57
+2023-05-16,North America,Apparel,Online,32,19.99,0.1,575.71,277.91
+2023-05-17,North America,Office Supplies,Retail Store,29,19.99,0.1,521.74,220.85
+2023-05-18,Middle East,Home & Kitchen,Retail Store,3,850.0,0.25,1912.5,858.54
+2023-05-19,Latin America,Home & Kitchen,Retail Store,40,19.99,0.15,679.66,293.18
+2023-05-20,Middle East,Books,Direct Sales,34,299.99,,10199.66,3620.83
+2023-05-21,Latin America,Electronics,Direct Sales,40,49.99,0.25,1499.7,529.16
+2023-05-22,Middle East,Books,Distributor,27,850.0,,21802.5,6989.15
+2023-05-23,Middle East,Office Supplies,Online,13,120.0,0.05,1482.0,609.21
+2023-05-24,Asia-Pacific,Office Supplies,Distributor,45,299.99,0.0,13499.55,4536.4
+2023-05-25,Middle East,Office Supplies,Online,33,850.0,0.15,23842.5,7785.73
+2023-05-26,Europe,Office Supplies,Direct Sales,6,19.99,0.25,89.96,40.92
+2023-05-27,Asia-Pacific,Office Supplies,Direct Sales,24,19.99,0.1,431.78,142.66
+2023-05-28,Middle East,Apparel,Direct Sales,19,19.99,0.0,379.81,222.78
+2023-05-29,North America,Home & Kitchen,Distributor,16,19.99,0.15,271.86,100.69
+2023-05-30,Europe,Office Supplies,Retail Store,40,120.0,0.1,4320.0,1061.63
+2023-05-31,Europe,Electronics,Retail Store,28,299.99,0.05,7979.73,4203.54
+2023-06-01,Europe,Electronics,Direct Sales,33,49.99,0.05,1567.19,714.37
+2023-06-02,Asia-Pacific,Electronics,Retail Store,48,120.0,0.1,5184.0,1618.8
+2023-06-03,Middle East,Electronics,Retail Store,41,120.0,0.0,4920.0,1649.79
+2023-06-04,Middle East,Apparel,Distributor,13,49.99,0.05,617.38,226.62
+2023-06-05,North America,Electronics,Online,43,49.99,0.25,1612.18,585.86
+2023-06-06,North America,Office Supplies,Direct Sales,45,19.99,0.1,809.6,267.73
+2023-06-07,Europe,Books,Direct Sales,25,120.0,0.1,2700.0,1232.95
+2023-06-08,North America,Electronics,Distributor,42,850.0,0.05,33915.0,11940.62
+2023-06-09,Asia-Pacific,Apparel,Distributor,36,49.99,0.0,1799.64,564.71
+2023-06-10,Middle East,Apparel,Retail Store,27,49.99,0.25,1012.3,180.3
+2023-06-11,Europe,Electronics,Direct Sales,38,299.99,0.0,11399.62,3888.82
+2023-06-12,North America,Books,Online,7,850.0,0.15,5057.5,2673.74
+2023-06-13,Asia-Pacific,Electronics,Distributor,5,850.0,0.15,3612.5,997.6
+2023-06-14,Asia-Pacific,Apparel,Online,43,49.99,0.05,2042.09,647.29
+2023-06-15,North America,Home & Kitchen,Online,45,19.99,0.05,854.57,483.8
+2023-06-16,Middle East,Office Supplies,Direct Sales,31,299.99,0.05,8834.71,2683.16
+2023-06-17,North America,Apparel,Direct Sales,23,850.0,0.15,16617.5,7291.99
+2023-06-18,Europe,Electronics,Distributor,42,49.99,0.0,2099.58,840.7
+2023-06-19,North America,Office Supplies,Direct Sales,10,850.0,0.0,8500.0,3059.1
+2023-06-20,Asia-Pacific,Electronics,Direct Sales,32,299.99,0.05,9119.7,3371.42
+2023-06-21,North America,Electronics,Direct Sales,43,299.99,0.25,9674.68,4157.72
+2023-06-22,Middle East,Home & Kitchen,Online,30,120.0,0.0,3600.0,1515.97
+2023-06-23,Latin America,Office Supplies,Distributor,39,49.99,0.15,1657.17,555.88
+2023-06-24,North America,Office Supplies,Retail Store,31,299.99,0.1,8369.72,2138.03
+2023-06-25,Middle East,Home & Kitchen,Online,18,120.0,0.1,1944.0,818.05
+2023-06-26,Middle East,Apparel,Direct Sales,36,120.0,0.1,3888.0,1743.88
+2023-06-27,Asia-Pacific,Electronics,Online,2,850.0,0.25,1275.0,212.58
+2023-06-28,Middle East,Books,Direct Sales,14,850.0,0.05,11305.0,5071.75
+2023-06-29,Middle East,Electronics,Direct Sales,13,120.0,0.15,1326.0,399.63
+2023-06-30,Middle East,Electronics,Online,29,850.0,0.25,18487.5,3847.0
+2023-07-01,Middle East,Apparel,Distributor,12,299.99,0.15,3059.9,660.9
+2023-07-02,Europe,Electronics,Direct Sales,39,19.99,0.15,662.67,210.8
+2023-07-03,Europe,Home & Kitchen,Distributor,2,299.99,0.05,569.98,239.6
+2023-07-04,Asia-Pacific,Home & Kitchen,Retail Store,32,120.0,0.1,3456.0,1760.02
+2023-07-05,North America,Office Supplies,Direct Sales,13,120.0,0.05,1482.0,803.83
+2023-07-06,Middle East,Books,Distributor,46,299.99,0.25,10349.66,4190.97
+2023-07-07,North America,Electronics,Distributor,27,850.0,0.25,17212.5,6849.32
+2023-07-08,North America,Electronics,Retail Store,49,850.0,0.25,31237.5,6607.23
+2023-07-09,Asia-Pacific,Apparel,Distributor,41,120.0,0.05,4674.0,1612.31
+2023-07-10,Middle East,Home & Kitchen,Distributor,17,49.99,0.15,722.36,247.31
+2023-07-11,Middle East,Books,Retail Store,40,850.0,0.15,28900.0,6844.02
+2023-07-12,Latin America,Office Supplies,Direct Sales,31,299.99,0.0,9299.69,2814.28
+2023-07-13,North America,Home & Kitchen,Distributor,34,850.0,0.25,21675.0,3005.49
+2023-07-14,North America,Office Supplies,Distributor,24,299.99,0.15,6119.8,1739.0
+2023-07-15,Europe,Apparel,Distributor,45,120.0,0.0,5400.0,2377.36
+2023-07-16,Latin America,Apparel,Online,35,850.0,0.15,25287.5,9381.49
+2023-07-17,Europe,Electronics,Retail Store,48,299.99,0.25,10799.64,4675.27
+2023-07-18,Europe,Books,Online,6,120.0,0.1,648.0,273.74
+2023-07-19,Europe,Office Supplies,Retail Store,19,49.99,0.25,712.36,73.1
+2023-07-20,Asia-Pacific,Home & Kitchen,Direct Sales,30,299.99,0.05,8549.72,2768.25
+2023-07-21,Asia-Pacific,Apparel,Direct Sales,7,49.99,0.15,297.44,134.79
+2023-07-22,Europe,Electronics,Distributor,10,49.99,0.15,424.92,154.98
+2023-07-23,Latin America,Electronics,Retail Store,41,19.99,0.05,778.61,249.96
+2023-07-24,North America,Office Supplies,Direct Sales,32,850.0,0.05,25840.0,14410.14
+2023-07-25,Latin America,Apparel,Retail Store,34,299.99,0.1,9179.69,3914.44
+2023-07-26,Middle East,Books,Direct Sales,28,49.99,0.15,1189.76,272.17
+2023-07-27,Asia-Pacific,Apparel,Online,15,19.99,0.15,254.87,98.6
+2023-07-28,North America,Office Supplies,Direct Sales,30,120.0,0.1,3240.0,1716.18
+2023-07-29,North America,Office Supplies,Online,37,299.99,0.0,11099.63,4853.2
+2023-07-30,Middle East,Apparel,Direct Sales,29,49.99,0.1,1304.74,350.07
+2023-07-31,Middle East,Office Supplies,Distributor,22,850.0,0.25,14025.0,3233.5
+2023-08-01,Europe,Apparel,Online,4,19.99,0.15,67.97,30.56
+2023-08-02,Asia-Pacific,Home & Kitchen,Direct Sales,20,49.99,0.05,949.81,434.64
+2023-08-03,Asia-Pacific,Apparel,Distributor,32,850.0,0.25,20400.0,5846.99
+2023-08-04,Latin America,Apparel,Online,36,49.99,0.15,1529.69,497.09
+2023-08-05,Europe,Office Supplies,Distributor,4,299.99,0.1,1079.96,326.62
+2023-08-06,Europe,Office Supplies,Retail Store,27,299.99,0.25,6074.8,2594.65
+2023-08-07,Europe,Electronics,Retail Store,17,299.99,0.15,4334.86,933.81
+2023-08-08,Europe,Electronics,Online,12,19.99,0.0,239.88,143.04
+2023-08-09,Asia-Pacific,Home & Kitchen,Direct Sales,22,299.99,0.0,6599.78,3227.19
+2023-08-10,Asia-Pacific,Electronics,Online,17,850.0,0.05,13727.5,7828.63
+2023-08-11,Europe,Apparel,Distributor,10,49.99,0.15,424.92,166.03
+2023-08-12,Latin America,Office Supplies,Direct Sales,1,120.0,0.0,120.0,53.07
+2023-08-13,North America,Electronics,Retail Store,22,850.0,0.1,16830.0,6479.47
+2023-08-14,North America,Electronics,Direct Sales,26,850.0,0.15,18785.0,8846.88
+2023-08-15,Latin America,Home & Kitchen,Retail Store,18,299.99,0.1,4859.84,1653.85
+2023-08-16,Europe,Home & Kitchen,Direct Sales,14,19.99,0.1,251.87,136.17
+2023-08-17,Asia-Pacific,Apparel,Direct Sales,47,49.99,0.0,2349.53,872.68
+2023-08-18,North America,Office Supplies,Direct Sales,29,19.99,0.15,492.75,96.23
+2023-08-19,Middle East,Home & Kitchen,Distributor,12,49.99,0.25,449.91,148.81
+2023-08-20,Middle East,Electronics,Distributor,36,49.99,0.0,1799.64,800.53
+2023-08-21,Latin America,Office Supplies,Online,35,19.99,0.0,699.65,340.26
+2023-08-22,Europe,Office Supplies,Online,12,850.0,0.15,8670.0,4569.47
+2023-08-23,North America,Electronics,Retail Store,7,49.99,0.15,297.44,116.96
+2023-08-24,Europe,Home & Kitchen,Distributor,29,19.99,0.1,521.74,152.17
+2023-08-25,North America,Electronics,Retail Store,11,49.99,0.15,467.41,149.14
+2023-08-26,Latin America,Office Supplies,Online,33,120.0,0.1,3564.0,1859.7
+2023-08-27,Latin America,Books,Retail Store,6,850.0,0.0,5100.0,1763.88
+2023-08-28,Middle East,Books,Online,47,299.99,0.05,13394.55,5508.32
+2023-08-29,Europe,Apparel,Distributor,15,49.99,0.25,562.39,73.1
+2023-08-30,Middle East,Electronics,Direct Sales,32,120.0,0.0,3840.0,1635.58
+2023-08-31,Europe,Electronics,Distributor,11,299.99,0.15,2804.91,930.88
+2023-09-01,Middle East,Apparel,Retail Store,23,299.99,0.25,5174.83,2197.04
+2023-09-02,Asia-Pacific,Apparel,Retail Store,26,49.99,0.05,1234.75,649.6
+2023-09-03,Asia-Pacific,Apparel,Distributor,34,19.99,0.05,645.68,175.62
+2023-09-04,Asia-Pacific,Office Supplies,Distributor,46,49.99,0.1,2069.59,992.15
+2023-09-05,Asia-Pacific,Electronics,Online,34,120.0,0.25,3060.0,231.6
+2023-09-06,North America,Office Supplies,Retail Store,29,299.99,0.1,7829.74,2961.61
+2023-09-07,Asia-Pacific,Apparel,Retail Store,4,49.99,0.0,199.96,111.83
+2023-09-08,Latin America,Electronics,Distributor,17,19.99,0.25,254.87,108.81
+2023-09-09,Latin America,Office Supplies,Direct Sales,35,49.99,0.0,1749.65,940.16
+2023-09-10,North America,Office Supplies,Retail Store,13,850.0,0.1,9945.0,2456.51
+2023-09-11,Asia-Pacific,Apparel,Direct Sales,41,19.99,0.25,614.69,185.02
+2023-09-12,Asia-Pacific,Electronics,Distributor,39,120.0,0.1,4212.0,1784.81
+2023-09-13,Asia-Pacific,Apparel,Distributor,15,299.99,0.25,3374.89,1152.14
+2023-09-14,Middle East,Electronics,Online,29,49.99,0.1,1304.74,660.9
+2023-09-15,Europe,Books,Retail Store,29,19.99,0.05,550.72,233.99
+2023-09-16,Middle East,Home & Kitchen,Direct Sales,11,850.0,0.1,8415.0,4310.22
+2023-09-17,Europe,Home & Kitchen,Online,32,19.99,0.05,607.7,191.5
+2023-09-18,Asia-Pacific,Home & Kitchen,Retail Store,2,850.0,0.1,1530.0,661.1
+2023-09-19,Asia-Pacific,Apparel,Online,47,120.0,0.25,4230.0,1339.83
+2023-09-20,Middle East,Books,Distributor,14,299.99,0.25,3149.9,872.73
+2023-09-21,Middle East,Electronics,Retail Store,20,120.0,0.25,1800.0,520.23
+2023-09-22,Europe,Office Supplies,Online,22,49.99,0.15,934.81,166.66
+2023-09-23,Latin America,Electronics,Online,11,19.99,0.0,219.89,95.96
+2023-09-24,Europe,Office Supplies,Direct Sales,27,850.0,0.25,17212.5,7425.23
+2023-09-25,Middle East,Electronics,Online,3,850.0,0.05,2422.5,938.24
+2023-09-26,Middle East,Books,Retail Store,17,19.99,,254.87,103.48
+2023-09-27,North America,Office Supplies,Retail Store,44,19.99,,747.63,387.64
+2023-09-28,Middle East,Apparel,Direct Sales,28,49.99,0.05,1329.73,362.21
+2023-09-29,North America,Electronics,Retail Store,29,120.0,0.15,2958.0,758.43
+2023-09-30,Latin America,Electronics,Distributor,21,850.0,0.05,16957.5,4569.02
+2023-10-01,Europe,Office Supplies,Retail Store,47,49.99,0.1,2114.58,837.93
+2023-10-02,Europe,Apparel,Retail Store,16,120.0,0.0,1920.0,845.42
+2023-10-03,North America,Apparel,Online,37,49.99,,1849.63,1016.37
+2023-10-04,Europe,Books,Online,20,850.0,0.15,14450.0,6390.77
+2023-10-05,Middle East,Apparel,Retail Store,6,19.99,0.0,119.94,41.79
+2023-10-06,Asia-Pacific,Apparel,Direct Sales,19,19.99,0.15,322.84,130.33
+2023-10-07,North America,Apparel,Online,5,120.0,0.15,510.0,121.17
+2023-10-08,Europe,Home & Kitchen,Direct Sales,3,299.99,0.15,764.97,213.55
+2023-10-09,North America,Books,Retail Store,1,120.0,0.0,120.0,65.62
+2023-10-10,North America,Electronics,Retail Store,38,299.99,0.15,9689.68,3394.42
+2023-10-11,Asia-Pacific,Office Supplies,Distributor,15,49.99,0.0,749.85,297.53
+2023-10-12,Middle East,Electronics,Online,34,49.99,0.15,1444.71,645.0
+2023-10-13,North America,Books,Retail Store,35,850.0,0.25,22312.5,2998.61
+2023-10-14,Europe,Office Supplies,Distributor,49,299.99,0.15,12494.58,4212.17
+2023-10-15,Latin America,Books,Online,25,850.0,0.05,20187.5,10634.08
+2023-10-16,North America,Apparel,Retail Store,24,19.99,0.15,407.8,131.99
+2023-10-17,North America,Office Supplies,Retail Store,12,299.99,0.1,3239.89,720.28
+2023-10-18,Asia-Pacific,Apparel,Online,18,120.0,0.15,1836.0,874.46
+2023-10-19,Middle East,Electronics,Online,15,19.99,0.05,284.86,91.45
+2023-10-20,Latin America,Electronics,Online,44,19.99,0.05,835.58,429.05
+2023-10-21,Europe,Office Supplies,Retail Store,16,120.0,0.0,1920.0,701.34
+2023-10-22,Latin America,Office Supplies,Retail Store,27,19.99,0.25,404.8,69.97
+2023-10-23,Europe,Books,Distributor,8,299.99,0.15,2039.93,863.62
+2023-10-24,Middle East,Books,Direct Sales,46,850.0,0.0,39100.0,19638.09
+2023-10-25,Europe,Apparel,Online,25,19.99,0.25,374.81,56.09
+2023-10-26,Asia-Pacific,Office Supplies,Retail Store,17,299.99,0.15,4334.86,1588.94
+2023-10-27,Asia-Pacific,Electronics,Retail Store,29,49.99,0.1,1304.74,407.01
+2023-10-28,Asia-Pacific,Books,Online,8,299.99,0.15,2039.93,973.42
+2023-10-29,Asia-Pacific,Books,Direct Sales,15,850.0,0.05,12112.5,3751.47
+2023-10-30,Latin America,Electronics,Online,27,299.99,0.05,7694.74,2727.46
+2023-10-31,Middle East,Books,Direct Sales,46,120.0,0.1,4968.0,1258.1
+2023-11-01,Europe,Apparel,Retail Store,7,850.0,0.0,5950.0,3333.72
+2023-11-02,Europe,Office Supplies,Direct Sales,3,49.99,0.25,112.48,25.81
+2023-11-03,Asia-Pacific,Electronics,Distributor,29,120.0,0.15,2958.0,940.52
+2023-11-04,Asia-Pacific,Office Supplies,Retail Store,44,299.99,0.05,12539.58,5860.1
+2023-11-05,North America,Books,Distributor,24,850.0,0.0,20400.0,9434.19
+2023-11-06,Middle East,Books,Online,3,49.99,0.1,134.97,73.27
+2023-11-07,Latin America,Electronics,Online,20,120.0,0.05,2280.0,782.98
+2023-11-08,Europe,Apparel,Online,46,49.99,0.1,2069.59,770.82
+2023-11-09,North America,Home & Kitchen,Direct Sales,15,299.99,0.15,3824.87,1946.98
+2023-11-10,North America,Electronics,Retail Store,25,49.99,0.25,937.31,182.18
+2023-11-11,Europe,Home & Kitchen,Online,30,19.99,0.05,569.71,245.85
+2023-11-12,Latin America,Home & Kitchen,Online,14,120.0,0.05,1596.0,906.63
+2023-11-13,North America,Apparel,Retail Store,7,49.99,0.15,297.44,55.68
+2023-11-14,North America,Home & Kitchen,Online,17,299.99,0.0,5099.83,1607.8
+2023-11-15,Middle East,Home & Kitchen,Distributor,44,299.99,0.25,9899.67,2588.82
+2023-11-16,Latin America,Apparel,Retail Store,20,49.99,0.05,949.81,521.79
+2023-11-17,North America,Home & Kitchen,Retail Store,36,299.99,0.25,8099.73,1334.98
+2023-11-18,Latin America,Home & Kitchen,Retail Store,9,850.0,0.05,7267.5,3078.52
+2023-11-19,Europe,Home & Kitchen,Distributor,38,850.0,0.25,24225.0,8374.28
+2023-11-20,Asia-Pacific,Electronics,Retail Store,48,850.0,0.1,36720.0,14385.04
+2023-11-21,North America,Electronics,Distributor,22,19.99,0.05,417.79,172.95
+2023-11-22,Middle East,Electronics,Retail Store,2,49.99,0.25,74.98,18.11
+2023-11-23,Europe,Apparel,Direct Sales,24,19.99,0.0,479.76,224.35
+2023-11-24,Latin America,Books,Online,8,299.99,0.1,2159.93,763.83
+2023-11-25,Europe,Home & Kitchen,Direct Sales,11,19.99,0.1,197.9,49.34
+2023-11-26,North America,Home & Kitchen,Online,13,299.99,0.0,3899.87,1916.08
+2023-11-27,Latin America,Apparel,Distributor,17,299.99,0.25,3824.87,674.63
+2023-11-28,Asia-Pacific,Home & Kitchen,Direct Sales,8,120.0,0.15,816.0,174.4
+2023-11-29,Europe,Electronics,Retail Store,21,850.0,0.0,17850.0,8268.23
+2023-11-30,North America,Books,Online,18,299.99,0.25,4049.86,1171.56
+2023-12-01,Middle East,Office Supplies,Online,30,120.0,0.0,3600.0,1509.71
+2023-12-02,Latin America,Home & Kitchen,Direct Sales,18,850.0,0.0,15300.0,6465.44
+2023-12-03,Europe,Electronics,Distributor,46,299.99,0.05,13109.56,4250.58
+2023-12-04,Europe,Office Supplies,Direct Sales,47,299.99,0.25,10574.65,2919.38
+2023-12-05,Asia-Pacific,Books,Distributor,31,19.99,0.15,526.74,93.68
+2023-12-06,Asia-Pacific,Office Supplies,Distributor,38,19.99,0.05,721.64,404.24
+2023-12-07,Middle East,Electronics,Online,32,850.0,0.0,27200.0,16294.15
+2023-12-08,Middle East,Office Supplies,Direct Sales,11,299.99,0.0,3299.89,1346.16
+2023-12-09,North America,Apparel,Direct Sales,45,49.99,0.0,2249.55,1148.33
+2023-12-10,North America,Office Supplies,Distributor,25,19.99,0.25,374.81,138.87
+2023-12-11,Middle East,Home & Kitchen,Direct Sales,33,850.0,0.25,21037.5,7192.87
+2023-12-12,Middle East,Home & Kitchen,Retail Store,38,299.99,0.05,10829.64,5394.14
+2023-12-13,Latin America,Apparel,Retail Store,41,299.99,0.15,10454.65,5421.2
+2023-12-14,Asia-Pacific,Electronics,Direct Sales,8,49.99,0.05,379.92,103.39
+2023-12-15,North America,Home & Kitchen,Direct Sales,11,850.0,0.1,8415.0,4055.81
+2023-12-16,Asia-Pacific,Books,Distributor,22,299.99,0.0,6599.78,2506.54
+2023-12-17,Asia-Pacific,Home & Kitchen,Retail Store,24,19.99,0.0,479.76,178.1
+2023-12-18,Middle East,Home & Kitchen,Retail Store,41,49.99,0.0,2049.59,658.37
+2023-12-19,Latin America,Electronics,Online,17,850.0,0.05,13727.5,7815.07
+2023-12-20,Europe,Office Supplies,Distributor,12,49.99,0.05,569.89,173.0
+2023-12-21,Latin America,Home & Kitchen,Online,46,19.99,0.0,919.54,406.28
+2023-12-22,Latin America,Apparel,Retail Store,32,850.0,0.05,25840.0,9798.44
+2023-12-23,Asia-Pacific,Office Supplies,Distributor,15,49.99,0.25,562.39,117.47
+2023-12-24,Latin America,Books,Direct Sales,16,120.0,0.25,1440.0,199.8
+2023-12-25,North America,Electronics,Distributor,22,19.99,0.05,417.79,197.89
+2023-12-26,Asia-Pacific,Books,Direct Sales,28,19.99,0.0,559.72,212.74
+2023-12-27,North America,Office Supplies,Direct Sales,20,19.99,0.05,379.81,156.49
+2023-12-28,Europe,Office Supplies,Distributor,33,120.0,0.05,3762.0,1235.45
+2023-12-29,Asia-Pacific,Office Supplies,Direct Sales,10,120.0,0.05,1140.0,303.4
+2023-12-30,Europe,Books,Online,40,299.99,0.1,10799.64,5277.48
+2023-12-31,Asia-Pacific,Office Supplies,Retail Store,32,49.99,0.25,1199.76,82.55
+2024-01-01,Middle East,Books,Direct Sales,33,299.99,0.15,8414.72,4188.12
+2024-01-02,Latin America,Office Supplies,Online,2,49.99,0.15,84.98,44.92
+2024-01-03,Middle East,Apparel,Direct Sales,33,120.0,0.1,3564.0,1927.54
+2024-01-04,Europe,Office Supplies,Retail Store,33,120.0,0.05,3762.0,1771.96
+2024-01-05,Latin America,Books,Online,41,299.99,0.1,11069.63,3814.45
+2024-01-06,Asia-Pacific,Home & Kitchen,Retail Store,13,850.0,0.1,9945.0,5296.17
+2024-01-07,Latin America,Office Supplies,Retail Store,30,299.99,0.0,8999.7,5384.52
+2024-01-08,North America,Home & Kitchen,Online,33,49.99,0.25,1237.25,113.61
+2024-01-09,Latin America,Apparel,Online,13,299.99,0.15,3314.89,793.32
+2024-01-10,North America,Electronics,Online,26,19.99,0.05,493.75,159.68
+2024-01-11,Latin America,Apparel,Distributor,22,49.99,0.15,934.81,203.1
+2024-01-12,North America,Office Supplies,Online,39,49.99,0.15,1657.17,467.89
+2024-01-13,Europe,Home & Kitchen,Online,2,850.0,0.25,1275.0,541.75
+2024-01-14,Middle East,Home & Kitchen,Online,38,120.0,0.15,3876.0,1506.03
+2024-01-15,Asia-Pacific,Books,Online,39,49.99,0.15,1657.17,454.37
+2024-01-16,Latin America,Home & Kitchen,Direct Sales,26,120.0,0.1,2808.0,1297.61
+2024-01-17,Middle East,Books,Distributor,46,299.99,0.25,10349.66,1984.08
+2024-01-18,Asia-Pacific,Electronics,Retail Store,15,19.99,0.0,299.85,177.71
+2024-01-19,Asia-Pacific,Office Supplies,Online,34,850.0,0.05,27455.0,13240.79
+2024-01-20,North America,Books,Direct Sales,42,120.0,0.15,4284.0,1437.71
+2024-01-21,Europe,Electronics,Direct Sales,44,49.99,0.05,2089.58,792.66
+2024-01-22,Europe,Home & Kitchen,Direct Sales,49,120.0,0.0,5880.0,2510.1
+2024-01-23,Middle East,Home & Kitchen,Retail Store,40,49.99,0.05,1899.62,681.21
+2024-01-24,Europe,Electronics,Online,11,120.0,0.0,1320.0,789.59
+2024-01-25,Latin America,Home & Kitchen,Distributor,3,49.99,0.1,134.97,70.44
+2024-01-26,Europe,Electronics,Distributor,6,299.99,0.15,1529.95,340.76
+2024-01-27,Middle East,Books,Direct Sales,9,49.99,0.0,449.91,177.93
+2024-01-28,Europe,Books,Retail Store,6,49.99,0.05,284.94,154.8
+2024-01-29,Latin America,Electronics,Retail Store,9,19.99,0.15,152.92,35.51
+2024-01-30,North America,Books,Retail Store,39,49.99,0.1,1754.65,833.13
+2024-01-31,Middle East,Books,Distributor,31,19.99,0.15,526.74,189.95
+2024-02-01,North America,Books,Direct Sales,32,850.0,0.0,27200.0,15135.2
+2024-02-02,North America,Apparel,Online,41,19.99,0.1,737.63,235.19
+2024-02-03,North America,Office Supplies,Distributor,12,299.99,0.05,3419.89,1259.76
+2024-02-04,Asia-Pacific,Home & Kitchen,Direct Sales,8,19.99,0.1,143.93,69.83
+2024-02-05,Asia-Pacific,Apparel,Direct Sales,8,850.0,0.1,6120.0,1638.66
+2024-02-06,North America,Books,Online,28,299.99,0.25,6299.79,1928.64
+2024-02-07,Middle East,Electronics,Online,20,120.0,0.1,2160.0,989.39
+2024-02-08,Latin America,Books,Online,47,120.0,0.1,5076.0,2562.26
+2024-02-09,Latin America,Office Supplies,Retail Store,7,19.99,0.15,118.94,51.79
+2024-02-10,Europe,Books,Online,11,19.99,0.05,208.9,119.49
+2024-02-11,Middle East,Electronics,Direct Sales,20,850.0,0.15,14450.0,4675.39
+2024-02-12,Asia-Pacific,Office Supplies,Online,16,850.0,0.15,11560.0,2683.7
+2024-02-13,North America,Books,Direct Sales,4,49.99,0.0,199.96,87.04
+2024-02-14,Europe,Office Supplies,Distributor,6,850.0,0.15,4335.0,1959.51
+2024-02-15,Latin America,Home & Kitchen,Retail Store,22,49.99,0.25,824.84,373.82
+2024-02-16,Asia-Pacific,Home & Kitchen,Distributor,26,299.99,0.25,5849.8,2227.69
+2024-02-17,Asia-Pacific,Books,Distributor,3,19.99,0.0,59.97,28.5
+2024-02-18,North America,Office Supplies,Direct Sales,41,299.99,0.05,11684.61,3961.9
+2024-02-19,Latin America,Electronics,Distributor,42,850.0,0.05,33915.0,17623.2
+2024-02-20,Middle East,Books,Direct Sales,14,299.99,0.15,3569.88,983.03
+2024-02-21,Asia-Pacific,Home & Kitchen,Online,11,299.99,0.15,2804.91,626.72
+2024-02-22,North America,Home & Kitchen,Online,18,299.99,0.15,4589.85,1694.55
+2024-02-23,Middle East,Books,Direct Sales,12,850.0,0.05,9690.0,3096.42
+2024-02-24,Latin America,Office Supplies,Online,23,299.99,0.1,6209.79,2301.78
+2024-02-25,Asia-Pacific,Home & Kitchen,Retail Store,12,49.99,0.25,449.91,95.3
+2024-02-26,Middle East,Office Supplies,Distributor,13,850.0,0.1,9945.0,3780.39
+2024-02-27,Middle East,Home & Kitchen,Retail Store,25,299.99,,6749.78,2707.78
+2024-02-28,Middle East,Home & Kitchen,Distributor,45,850.0,0.05,36337.5,18344.85
+2024-02-29,Asia-Pacific,Apparel,Online,19,120.0,0.1,2052.0,932.62
+2024-03-01,Asia-Pacific,Home & Kitchen,Retail Store,46,49.99,0.0,2299.54,1179.68
+2024-03-02,Europe,Electronics,Online,36,299.99,0.15,9179.69,3034.84
+2024-03-03,Latin America,Books,Distributor,45,120.0,0.0,5400.0,3045.68
+2024-03-04,North America,Books,Direct Sales,8,120.0,0.25,720.0,71.96
+2024-03-05,Middle East,Office Supplies,Direct Sales,29,850.0,0.15,20952.5,5763.26
+2024-03-06,Europe,Home & Kitchen,Retail Store,32,120.0,0.1,3456.0,1457.53
+2024-03-07,North America,Electronics,Online,44,49.99,0.25,1649.67,665.18
+2024-03-08,Europe,Office Supplies,Online,18,49.99,0.15,764.85,166.83
+2024-03-09,Asia-Pacific,Apparel,Retail Store,6,19.99,0.1,107.95,30.33
+2024-03-10,Middle East,Office Supplies,Direct Sales,18,49.99,0.0,899.82,345.07
+2024-03-11,North America,Office Supplies,Distributor,19,120.0,0.15,1938.0,840.26
+2024-03-12,North America,Home & Kitchen,Retail Store,22,49.99,0.1,989.8,417.11
+2024-03-13,North America,Apparel,Distributor,37,850.0,0.0,31450.0,17900.57
+2024-03-14,North America,Office Supplies,Direct Sales,32,19.99,0.25,479.76,187.61
+2024-03-15,North America,Electronics,Online,41,120.0,0.25,3690.0,566.27
+2024-03-16,Europe,Electronics,Direct Sales,3,19.99,0.25,44.98,8.13
+2024-03-17,Middle East,Books,Retail Store,28,120.0,,2520.0,577.77
+2024-03-18,Asia-Pacific,Apparel,Online,10,850.0,0.05,8075.0,2390.9
+2024-03-19,Asia-Pacific,Apparel,Retail Store,35,19.99,0.15,594.7,192.42
+2024-03-20,Asia-Pacific,Books,Retail Store,29,299.99,0.15,7394.75,2696.12
+2024-03-21,Asia-Pacific,Office Supplies,Direct Sales,15,120.0,0.05,1710.0,806.2
+2024-03-22,Europe,Apparel,Retail Store,33,299.99,0.1,8909.7,2156.79
+2024-03-23,Latin America,Electronics,Direct Sales,7,19.99,0.1,125.94,66.5
+2024-03-24,Middle East,Electronics,Online,12,299.99,0.25,2699.91,254.63
+2024-03-25,North America,Home & Kitchen,Direct Sales,49,299.99,0.0,14699.51,5174.02
+2024-03-26,Latin America,Apparel,Online,30,19.99,0.1,539.73,276.47
+2024-03-27,Asia-Pacific,Office Supplies,Direct Sales,21,850.0,0.0,17850.0,7684.51
+2024-03-28,Latin America,Books,Distributor,31,299.99,0.15,7904.74,1767.28
+2024-03-29,Middle East,Books,Distributor,24,299.99,0.0,7199.76,3084.79
+2024-03-30,North America,Office Supplies,Retail Store,20,850.0,0.15,14450.0,3023.28
+2024-03-31,North America,Home & Kitchen,Direct Sales,37,299.99,0.05,10544.65,2964.77
+2024-04-01,Middle East,Books,Direct Sales,4,299.99,0.05,1139.96,507.92
+2024-04-02,Middle East,Apparel,Online,28,299.99,0.25,6299.79,1989.1
+2024-04-03,Asia-Pacific,Home & Kitchen,Retail Store,44,49.99,0.1,1979.6,481.93
+2024-04-04,North America,Apparel,Direct Sales,20,850.0,0.25,12750.0,2506.79
+2024-04-05,Latin America,Electronics,Retail Store,24,299.99,0.15,6119.8,2989.3
+2024-04-06,Europe,Home & Kitchen,Distributor,49,850.0,0.25,31237.5,14049.06
+2024-04-07,Europe,Books,Direct Sales,32,120.0,0.0,3840.0,1653.55
+2024-04-08,Middle East,Home & Kitchen,Direct Sales,41,120.0,0.15,4182.0,841.07
+2024-04-09,Asia-Pacific,Home & Kitchen,Retail Store,36,299.99,0.05,10259.66,3204.53
+2024-04-10,Europe,Home & Kitchen,Direct Sales,34,850.0,0.1,26010.0,8590.4
+2024-04-11,North America,Home & Kitchen,Retail Store,36,850.0,0.15,26010.0,12492.92
+2024-04-12,Middle East,Apparel,Direct Sales,2,850.0,0.15,1445.0,635.34
+2024-04-13,Latin America,Electronics,Online,15,49.99,0.0,749.85,252.96
+2024-04-14,Middle East,Office Supplies,Retail Store,34,120.0,0.1,3672.0,1816.24
+2024-04-15,Latin America,Home & Kitchen,Direct Sales,36,850.0,0.05,29070.0,14273.93
+2024-04-16,Middle East,Books,Distributor,6,850.0,0.15,4335.0,2096.71
+2024-04-17,Middle East,Home & Kitchen,Direct Sales,39,49.99,0.15,1657.17,481.88
+2024-04-18,Middle East,Books,Distributor,42,49.99,0.0,2099.58,665.16
+2024-04-19,Latin America,Apparel,Distributor,12,850.0,0.25,7650.0,2746.96
+2024-04-20,Latin America,Books,Online,3,19.99,0.05,56.97,24.43
+2024-04-21,Middle East,Office Supplies,Retail Store,45,850.0,0.1,34425.0,11845.95
+2024-04-22,Europe,Electronics,Direct Sales,18,850.0,0.15,13005.0,2297.45
+2024-04-23,Asia-Pacific,Books,Online,40,49.99,0.15,1699.66,836.95
+2024-04-24,Asia-Pacific,Books,Direct Sales,21,49.99,0.05,997.3,420.37
+2024-04-25,Asia-Pacific,Electronics,Distributor,15,850.0,0.25,9562.5,2989.42
+2024-04-26,Latin America,Office Supplies,Retail Store,33,850.0,0.15,23842.5,5336.62
+2024-04-27,Latin America,Home & Kitchen,Direct Sales,35,850.0,0.05,28262.5,12114.49
+2024-04-28,Europe,Books,Direct Sales,26,49.99,0.0,1299.74,736.57
+2024-04-29,Asia-Pacific,Electronics,Distributor,8,850.0,0.25,5100.0,1085.77
+2024-04-30,Asia-Pacific,Apparel,Direct Sales,36,850.0,0.1,27540.0,8224.23
+2024-05-01,Middle East,Electronics,Direct Sales,48,299.99,0.15,12239.59,6467.34
+2024-05-02,Latin America,Apparel,Distributor,30,19.99,0.05,569.71,175.3
+2024-05-03,Asia-Pacific,Office Supplies,Online,23,120.0,0.0,2760.0,1501.97
+2024-05-04,Europe,Home & Kitchen,Distributor,42,19.99,0.1,755.62,280.74
+2024-05-05,Europe,Electronics,Online,44,299.99,0.05,12539.58,5613.25
+2024-05-06,Asia-Pacific,Books,Retail Store,14,120.0,0.05,1596.0,561.29
+2024-05-07,Latin America,Office Supplies,Online,14,850.0,0.1,10710.0,4624.95
+2024-05-08,Europe,Electronics,Online,2,299.99,0.0,599.98,203.44
+2024-05-09,Middle East,Books,Retail Store,37,850.0,0.0,31450.0,11977.77
+2024-05-10,Europe,Electronics,Online,5,49.99,0.25,187.46,38.91
+2024-05-11,North America,Apparel,Distributor,38,299.99,0.15,9689.68,2406.78
+2024-05-12,North America,Electronics,Online,45,49.99,0.1,2024.6,615.92
+2024-05-13,Latin America,Electronics,Retail Store,41,299.99,0.1,11069.63,6017.18
+2024-05-14,Asia-Pacific,Electronics,Distributor,47,299.99,0.1,12689.58,5380.1

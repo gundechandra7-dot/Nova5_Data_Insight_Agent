@@ -1,0 +1,785 @@
+{
+  "product": "InsightEngineApp",
+  "metrics": [
+    {
+      "timestamp": "2024-01-01",
+      "active_users": 12072,
+      "performance": {
+        "p95_latency_ms": 131.4,
+        "crash_rate_pct": 0.083,
+        "cpu_usage_pct": 74.8
+      },
+      "engagement": {
+        "avg_session_min": 10.01,
+        "screens_per_session": 5.4
+      }
+    },
+    {
+      "timestamp": "2024-01-02",
+      "active_users": 12912,
+      "performance": {
+        "p95_latency_ms": 150.5,
+        "crash_rate_pct": 0.136,
+        "cpu_usage_pct": 53.6
+      },
+      "engagement": {
+        "avg_session_min": 11.88,
+        "screens_per_session": 5.8
+      }
+    },
+    {
+      "timestamp": "2024-01-03",
+      "active_users": 10265,
+      "performance": {
+        "p95_latency_ms": 185.1,
+        "crash_rate_pct": 0.073,
+        "cpu_usage_pct": 72.2
+      },
+      "engagement": {
+        "avg_session_min": 15.88,
+        "screens_per_session": 8.4
+      }
+    },
+    {
+      "timestamp": "2024-01-04",
+      "active_users": 13177,
+      "performance": {
+        "p95_latency_ms": 162.3,
+        "crash_rate_pct": 0.033,
+        "cpu_usage_pct": 32.7
+      },
+      "engagement": {
+        "avg_session_min": 13.68,
+        "screens_per_session": 8.0
+      }
+    },
+    {
+      "timestamp": "2024-01-05",
+      "active_users": 11606,
+      "performance": {
+        "p95_latency_ms": 130.0,
+        "crash_rate_pct": 0.104,
+        "cpu_usage_pct": 37.6
+      },
+      "engagement": {
+        "avg_session_min": 8.92,
+        "screens_per_session": 5.8
+      }
+    },
+    {
+      "timestamp": "2024-01-06",
+      "active_users": 11294,
+      "performance": {
+        "p95_latency_ms": 169.0,
+        "crash_rate_pct": 0.101,
+        "cpu_usage_pct": 56.1
+      },
+      "engagement": {
+        "avg_session_min": 8.67,
+        "screens_per_session": 9.4
+      }
+    },
+    {
+      "timestamp": "2024-01-07",
+      "active_users": 12793,
+      "performance": {
+        "p95_latency_ms": 141.1,
+        "crash_rate_pct": 0.026,
+        "cpu_usage_pct": 52.1
+      },
+      "engagement": {
+        "avg_session_min": 9.77,
+        "screens_per_session": 4.3
+      }
+    },
+    {
+      "timestamp": "2024-01-08",
+      "active_users": 10107,
+      "performance": {
+        "p95_latency_ms": 150.1,
+        "crash_rate_pct": 0.092,
+        "cpu_usage_pct": 35.1
+      },
+      "engagement": {
+        "avg_session_min": 10.99,
+        "screens_per_session": 8.3
+      }
+    },
+    {
+      "timestamp": "2024-01-09",
+      "active_users": 15015,
+      "performance": {
+        "p95_latency_ms": 120.2,
+        "crash_rate_pct": 0.101,
+        "cpu_usage_pct": 68.0
+      },
+      "engagement": {
+        "avg_session_min": 10.94,
+        "screens_per_session": 7.8
+      }
+    },
+    {
+      "timestamp": "2024-01-10",
+      "active_users": 15460,
+      "performance": {
+        "p95_latency_ms": 136.4,
+        "crash_rate_pct": 0.114,
+        "cpu_usage_pct": 57.6
+      },
+      "engagement": {
+        "avg_session_min": 8.63,
+        "screens_per_session": 5.1
+      }
+    },
+    {
+      "timestamp": "2024-01-11",
+      "active_users": 11093,
+      "performance": {
+        "p95_latency_ms": 156.5,
+        "crash_rate_pct": 0.112,
+        "cpu_usage_pct": 46.7
+      },
+      "engagement": {
+        "avg_session_min": 12.41,
+        "screens_per_session": 4.4
+      }
+    },
+    {
+      "timestamp": "2024-01-12",
+      "active_users": 12459,
+      "performance": {
+        "p95_latency_ms": 155.7,
+        "crash_rate_pct": 0.074,
+        "cpu_usage_pct": 60.4
+      },
+      "engagement": {
+        "avg_session_min": 13.14,
+        "screens_per_session": 7.1
+      }
+    },
+    {
+      "timestamp": "2024-01-13",
+      "active_users": 12248,
+      "performance": {
+        "p95_latency_ms": 129.0,
+        "crash_rate_pct": 0.118,
+        "cpu_usage_pct": 74.7
+      },
+      "engagement": {
+        "avg_session_min": 8.58,
+        "screens_per_session": 8.0
+      }
+    },
+    {
+      "timestamp": "2024-01-14",
+      "active_users": 9404,
+      "performance": {
+        "p95_latency_ms": 177.7,
+        "crash_rate_pct": 0.028,
+        "cpu_usage_pct": 48.4
+      },
+      "engagement": {
+        "avg_session_min": 11.16,
+        "screens_per_session": 5.7
+      }
+    },
+    {
+      "timestamp": "2024-01-15",
+      "active_users": 13379,
+      "performance": {
+        "p95_latency_ms": 161.2,
+        "crash_rate_pct": 0.092,
+        "cpu_usage_pct": 72.2
+      },
+      "engagement": {
+        "avg_session_min": 11.12,
+        "screens_per_session": 5.3
+      }
+    },
+    {
+      "timestamp": "2024-01-16",
+      "active_users": 10340,
+      "performance": {
+        "p95_latency_ms": 151.5,
+        "crash_rate_pct": 0.054,
+        "cpu_usage_pct": 40.1
+      },
+      "engagement": {
+        "avg_session_min": 9.02,
+        "screens_per_session": 8.6
+      }
+    },
+    {
+      "timestamp": "2024-01-17",
+      "active_users": 11724,
+      "performance": {
+        "p95_latency_ms": 106.6,
+        "crash_rate_pct": 0.016,
+        "cpu_usage_pct": 61.5
+      },
+      "engagement": {
+        "avg_session_min": 10.98,
+        "screens_per_session": 8.1
+      }
+    },
+    {
+      "timestamp": "2024-01-18",
+      "active_users": 10051,
+      "performance": {
+        "p95_latency_ms": 132.5,
+        "crash_rate_pct": 0.082,
+        "cpu_usage_pct": 35.9
+      },
+      "engagement": {
+        "avg_session_min": 11.8,
+        "screens_per_session": 5.7
+      }
+    },
+    {
+      "timestamp": "2024-01-19",
+      "active_users": 10607,
+      "performance": {
+        "p95_latency_ms": 151.4,
+        "crash_rate_pct": 0.055,
+        "cpu_usage_pct": 48.7
+      },
+      "engagement": {
+        "avg_session_min": 15.31,
+        "screens_per_session": 5.3
+      }
+    },
+    {
+      "timestamp": "2024-01-20",
+      "active_users": 11593,
+      "performance": {
+        "p95_latency_ms": 127.8,
+        "crash_rate_pct": 0.025,
+        "cpu_usage_pct": 35.8
+      },
+      "engagement": {
+        "avg_session_min": 12.8,
+        "screens_per_session": 4.3
+      }
+    },
+    {
+      "timestamp": "2024-01-21",
+      "active_users": 10665,
+      "performance": {
+        "p95_latency_ms": 133.4,
+        "crash_rate_pct": 0.046,
+        "cpu_usage_pct": 58.9
+      },
+      "engagement": {
+        "avg_session_min": 10.57,
+        "screens_per_session": 6.7
+      }
+    },
+    {
+      "timestamp": "2024-01-22",
+      "active_users": 12341,
+      "performance": {
+        "p95_latency_ms": 120.4,
+        "crash_rate_pct": 0.054,
+        "cpu_usage_pct": 58.2
+      },
+      "engagement": {
+        "avg_session_min": 14.56,
+        "screens_per_session": 7.4
+      }
+    },
+    {
+      "timestamp": "2024-01-23",
+      "active_users": 10453,
+      "performance": {
+        "p95_latency_ms": 122.8,
+        "crash_rate_pct": 0.056,
+        "cpu_usage_pct": 37.4
+      },
+      "engagement": {
+        "avg_session_min": 9.86,
+        "screens_per_session": 8.3
+      }
+    },
+    {
+      "timestamp": "2024-01-24",
+      "active_users": 10318,
+      "performance": {
+        "p95_latency_ms": 99.6,
+        "crash_rate_pct": 0.093,
+        "cpu_usage_pct": 56.5
+      },
+      "engagement": {
+        "avg_session_min": 9.01,
+        "screens_per_session": 8.6
+      }
+    },
+    {
+      "timestamp": "2024-01-25",
+      "active_users": 12840,
+      "performance": {
+        "p95_latency_ms": 123.8,
+        "crash_rate_pct": 0.118,
+        "cpu_usage_pct": 62.2
+      },
+      "engagement": {
+        "avg_session_min": 12.84,
+        "screens_per_session": 4.1
+      }
+    },
+    {
+      "timestamp": "2024-01-26",
+      "active_users": 13847,
+      "performance": {
+        "p95_latency_ms": 107.2,
+        "crash_rate_pct": 0.064,
+        "cpu_usage_pct": 68.9
+      },
+      "engagement": {
+        "avg_session_min": 10.82,
+        "screens_per_session": 5.6
+      }
+    },
+    {
+      "timestamp": "2024-01-27",
+      "active_users": 10702,
+      "performance": {
+        "p95_latency_ms": 115.8,
+        "crash_rate_pct": 0.088,
+        "cpu_usage_pct": 61.8
+      },
+      "engagement": {
+        "avg_session_min": 13.47,
+        "screens_per_session": 8.4
+      }
+    },
+    {
+      "timestamp": "2024-01-28",
+      "active_users": 12091,
+      "performance": {
+        "p95_latency_ms": 141.5,
+        "crash_rate_pct": 0.013,
+        "cpu_usage_pct": 63.1
+      },
+      "engagement": {
+        "avg_session_min": 10.06,
+        "screens_per_session": 4.7
+      }
+    },
+    {
+      "timestamp": "2024-01-29",
+      "active_users": 9887,
+      "performance": {
+        "p95_latency_ms": 161.6,
+        "crash_rate_pct": 0.018,
+        "cpu_usage_pct": 36.2
+      },
+      "engagement": {
+        "avg_session_min": 8.51,
+        "screens_per_session": 9.0
+      }
+    },
+    {
+      "timestamp": "2024-01-30",
+      "active_users": 9280,
+      "performance": {
+        "p95_latency_ms": 118.8,
+        "crash_rate_pct": 0.138,
+        "cpu_usage_pct": 31.8
+      },
+      "engagement": {
+        "avg_session_min": 12.34,
+        "screens_per_session": 7.7
+      }
+    },
+    {
+      "timestamp": "2024-01-31",
+      "active_users": 12266,
+      "performance": {
+        "p95_latency_ms": 152.7,
+        "crash_rate_pct": 0.123,
+        "cpu_usage_pct": 33.8
+      },
+      "engagement": {
+        "avg_session_min": 11.39,
+        "screens_per_session": 6.1
+      }
+    },
+    {
+      "timestamp": "2024-02-01",
+      "active_users": 11332,
+      "performance": {
+        "p95_latency_ms": 121.9,
+        "crash_rate_pct": 0.018,
+        "cpu_usage_pct": 38.2
+      },
+      "engagement": {
+        "avg_session_min": 15.74,
+        "screens_per_session": 6.4
+      }
+    },
+    {
+      "timestamp": "2024-02-02",
+      "active_users": 14083,
+      "performance": {
+        "p95_latency_ms": 156.2,
+        "crash_rate_pct": 0.061,
+        "cpu_usage_pct": 36.6
+      },
+      "engagement": {
+        "avg_session_min": 10.05,
+        "screens_per_session": 5.7
+      }
+    },
+    {
+      "timestamp": "2024-02-03",
+      "active_users": 10133,
+      "performance": {
+        "p95_latency_ms": 173.3,
+        "crash_rate_pct": 0.011,
+        "cpu_usage_pct": 53.6
+      },
+      "engagement": {
+        "avg_session_min": 15.41,
+        "screens_per_session": 8.5
+      }
+    },
+    {
+      "timestamp": "2024-02-04",
+      "active_users": 12726,
+      "performance": {
+        "p95_latency_ms": 150.7,
+        "crash_rate_pct": 0.055,
+        "cpu_usage_pct": 64.4
+      },
+      "engagement": {
+        "avg_session_min": 9.57,
+        "screens_per_session": 7.6
+      }
+    },
+    {
+      "timestamp": "2024-02-05",
+      "active_users": 11714,
+      "performance": {
+        "p95_latency_ms": 141.1,
+        "crash_rate_pct": 0.12,
+        "cpu_usage_pct": 70.6
+      },
+      "engagement": {
+        "avg_session_min": 10.51,
+        "screens_per_session": 8.5
+      }
+    },
+    {
+      "timestamp": "2024-02-06",
+      "active_users": 12272,
+      "performance": {
+        "p95_latency_ms": 124.8,
+        "crash_rate_pct": 0.078,
+        "cpu_usage_pct": 54.6
+      },
+      "engagement": {
+        "avg_session_min": 15.45,
+        "screens_per_session": 8.8
+      }
+    },
+    {
+      "timestamp": "2024-02-07",
+      "active_users": 10949,
+      "performance": {
+        "p95_latency_ms": 157.7,
+        "crash_rate_pct": 0.138,
+        "cpu_usage_pct": 34.4
+      },
+      "engagement": {
+        "avg_session_min": 14.9,
+        "screens_per_session": 5.8
+      }
+    },
+    {
+      "timestamp": "2024-02-08",
+      "active_users": 12229,
+      "performance": {
+        "p95_latency_ms": 131.9,
+        "crash_rate_pct": 0.042,
+        "cpu_usage_pct": 41.0
+      },
+      "engagement": {
+        "avg_session_min": 10.8,
+        "screens_per_session": 4.4
+      }
+    },
+    {
+      "timestamp": "2024-02-09",
+      "active_users": 10752,
+      "performance": {
+        "p95_latency_ms": 137.8,
+        "crash_rate_pct": 0.106,
+        "cpu_usage_pct": 40.6
+      },
+      "engagement": {
+        "avg_session_min": 15.58,
+        "screens_per_session": 8.8
+      }
+    },
+    {
+      "timestamp": "2024-02-10",
+      "active_users": 13421,
+      "performance": {
+        "p95_latency_ms": 125.9,
+        "crash_rate_pct": 0.122,
+        "cpu_usage_pct": 74.4
+      },
+      "engagement": {
+        "avg_session_min": 12.98,
+        "screens_per_session": 4.5
+      }
+    },
+    {
+      "timestamp": "2024-02-11",
+      "active_users": 13898,
+      "performance": {
+        "p95_latency_ms": 169.7,
+        "crash_rate_pct": 0.099,
+        "cpu_usage_pct": 43.8
+      },
+      "engagement": {
+        "avg_session_min": 14.95,
+        "screens_per_session": 9.3
+      }
+    },
+    {
+      "timestamp": "2024-02-12",
+      "active_users": 11907,
+      "performance": {
+        "p95_latency_ms": 139.2,
+        "crash_rate_pct": 0.037,
+        "cpu_usage_pct": 66.9
+      },
+      "engagement": {
+        "avg_session_min": 13.57,
+        "screens_per_session": 7.5
+      }
+    },
+    {
+      "timestamp": "2024-02-13",
+      "active_users": 14191,
+      "performance": {
+        "p95_latency_ms": 103.1,
+        "crash_rate_pct": 0.053,
+        "cpu_usage_pct": 51.5
+      },
+      "engagement": {
+        "avg_session_min": 14.45,
+        "screens_per_session": 9.4
+      }
+    },
+    {
+      "timestamp": "2024-02-14",
+      "active_users": 10852,
+      "performance": {
+        "p95_latency_ms": 92.1,
+        "crash_rate_pct": 0.109,
+        "cpu_usage_pct": 71.5
+      },
+      "engagement": {
+        "avg_session_min": 9.56,
+        "screens_per_session": 5.7
+      }
+    },
+    {
+      "timestamp": "2024-02-15",
+      "active_users": 12471,
+      "performance": {
+        "p95_latency_ms": 119.8,
+        "crash_rate_pct": 0.053,
+        "cpu_usage_pct": 44.7
+      },
+      "engagement": {
+        "avg_session_min": 9.03,
+        "screens_per_session": 5.9
+      }
+    },
+    {
+      "timestamp": "2024-02-16",
+      "active_users": 11423,
+      "performance": {
+        "p95_latency_ms": 150.4,
+        "crash_rate_pct": 0.107,
+        "cpu_usage_pct": 58.3
+      },
+      "engagement": {
+        "avg_session_min": 14.98,
+        "screens_per_session": 4.7
+      }
+    },
+    {
+      "timestamp": "2024-02-17",
+      "active_users": 12090,
+      "performance": {
+        "p95_latency_ms": 147.0,
+        "crash_rate_pct": 0.149,
+        "cpu_usage_pct": 71.0
+      },
+      "engagement": {
+        "avg_session_min": 10.16,
+        "screens_per_session": 4.3
+      }
+    },
+    {
+      "timestamp": "2024-02-18",
+      "active_users": 12283,
+      "performance": {
+        "p95_latency_ms": 106.5,
+        "crash_rate_pct": 0.034,
+        "cpu_usage_pct": 37.5
+      },
+      "engagement": {
+        "avg_session_min": 11.97,
+        "screens_per_session": 4.2
+      }
+    },
+    {
+      "timestamp": "2024-02-19",
+      "active_users": 11670,
+      "performance": {
+        "p95_latency_ms": 120.3,
+        "crash_rate_pct": 0.019,
+        "cpu_usage_pct": 47.9
+      },
+      "engagement": {
+        "avg_session_min": 12.06,
+        "screens_per_session": 6.5
+      }
+    },
+    {
+      "timestamp": "2024-02-20",
+      "active_users": 12133,
+      "performance": {
+        "p95_latency_ms": 161.8,
+        "crash_rate_pct": 0.076,
+        "cpu_usage_pct": 48.5
+      },
+      "engagement": {
+        "avg_session_min": 14.63,
+        "screens_per_session": 8.9
+      }
+    },
+    {
+      "timestamp": "2024-02-21",
+      "active_users": 12647,
+      "performance": {
+        "p95_latency_ms": 157.6,
+        "crash_rate_pct": 0.029,
+        "cpu_usage_pct": 42.5
+      },
+      "engagement": {
+        "avg_session_min": 8.85,
+        "screens_per_session": 9.1
+      }
+    },
+    {
+      "timestamp": "2024-02-22",
+      "active_users": 13829,
+      "performance": {
+        "p95_latency_ms": 155.9,
+        "crash_rate_pct": 0.054,
+        "cpu_usage_pct": 68.1
+      },
+      "engagement": {
+        "avg_session_min": 10.45,
+        "screens_per_session": 4.0
+      }
+    },
+    {
+      "timestamp": "2024-02-23",
+      "active_users": 13670,
+      "performance": {
+        "p95_latency_ms": 101.1,
+        "crash_rate_pct": 0.077,
+        "cpu_usage_pct": 68.8
+      },
+      "engagement": {
+        "avg_session_min": 9.29,
+        "screens_per_session": 7.0
+      }
+    },
+    {
+      "timestamp": "2024-02-24",
+      "active_users": 9278,
+      "performance": {
+        "p95_latency_ms": 142.2,
+        "crash_rate_pct": 0.125,
+        "cpu_usage_pct": 63.9
+      },
+      "engagement": {
+        "avg_session_min": 14.0,
+        "screens_per_session": 8.8
+      }
+    },
+    {
+      "timestamp": "2024-02-25",
+      "active_users": 10614,
+      "performance": {
+        "p95_latency_ms": 155.3,
+        "crash_rate_pct": 0.109,
+        "cpu_usage_pct": 43.8
+      },
+      "engagement": {
+        "avg_session_min": 10.32,
+        "screens_per_session": 4.4
+      }
+    },
+    {
+      "timestamp": "2024-02-26",
+      "active_users": 13298,
+      "performance": {
+        "p95_latency_ms": 160.0,
+        "crash_rate_pct": 0.043,
+        "cpu_usage_pct": 63.7
+      },
+      "engagement": {
+        "avg_session_min": 15.38,
+        "screens_per_session": 4.6
+      }
+    },
+    {
+      "timestamp": "2024-02-27",
+      "active_users": 13144,
+      "performance": {
+        "p95_latency_ms": 123.7,
+        "crash_rate_pct": 0.048,
+        "cpu_usage_pct": 58.1
+      },
+      "engagement": {
+        "avg_session_min": 9.11,
+        "screens_per_session": 6.5
+      }
+    },
+    {
+      "timestamp": "2024-02-28",
+      "active_users": 13304,
+      "performance": {
+        "p95_latency_ms": 162.3,
+        "crash_rate_pct": 0.124,
+        "cpu_usage_pct": 69.5
+      },
+      "engagement": {
+        "avg_session_min": 14.3,
+        "screens_per_session": 7.7
+      }
+    },
+    {
+      "timestamp": "2024-02-29",
+      "active_users": 12055,
+      "performance": {
+        "p95_latency_ms": 130.0,
+        "crash_rate_pct": 0.015,
+        "cpu_usage_pct": 66.4
+      },
+      "engagement": {
+        "avg_session_min": 10.91,
+        "screens_per_session": 7.1
+      }
+    }
+  ]
+}
